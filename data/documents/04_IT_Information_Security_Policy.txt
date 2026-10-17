@@ -1,0 +1,33 @@
+NOVATECH SOLUTIONS PVT. LTD.
+IT & INFORMATION SECURITY POLICY
+Document ID: IT-SEC-001 | Version: 1.0 | Effective: 01-Apr-2026
+
+1. Purpose
+Protect company systems, devices, credentials, applications, and information.
+
+2. Passwords
+Passwords must be unique, confidential, and not shared. Multi-factor authentication (MFA) must be enabled where provided.
+
+3. Company Devices
+Company laptops and devices are for authorized business use. Employees must apply security updates and use approved security software.
+
+4. Software
+Employees may install software only when authorized or available through approved company channels. Pirated or unlicensed software is prohibited.
+
+5. Email & Internet
+Company email and internet resources must be used responsibly. Phishing, malware, harassment, illegal activity, and unauthorized data transfer are prohibited.
+
+6. Remote Access
+Remote access must use approved VPN or security controls when required. Employees must avoid unsecured public networks for sensitive work.
+
+7. Data Protection
+Confidential data must be stored and transmitted using approved systems. Sensitive files should not be copied to personal drives or unauthorized cloud services.
+
+8. Lost Device
+Loss or theft of a company device must be reported to IT/security immediately. IT may remotely lock or wipe supported devices.
+
+9. Security Incident
+Suspected phishing, credential compromise, malware, unauthorized access, or data leakage must be reported immediately to the IT/security team.
+
+10. Access Control
+Access is granted based on job requirements and should be removed or changed when roles change or employment ends.

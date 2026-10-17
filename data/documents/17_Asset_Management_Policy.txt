@@ -1,0 +1,24 @@
+NOVATECH SOLUTIONS PVT. LTD.
+ASSET MANAGEMENT POLICY
+Document ID: IT-AM-001 | Version: 1.0 | Effective: 01-Apr-2026
+
+1. Asset Assignment
+IT records company devices and other assigned assets against the responsible employee or department.
+
+2. Employee Responsibility
+Employees must protect assigned assets from loss, damage, unauthorized access, and misuse.
+
+3. Software Licensing
+Only authorized/licensed software may be installed on company assets.
+
+4. Repairs
+Hardware faults should be reported to IT rather than repaired through unauthorized vendors.
+
+5. Lost/Stolen Assets
+Report lost or stolen assets immediately so IT can take protective action.
+
+6. Return
+Assets must be returned during role change or separation as instructed.
+
+7. Disposal
+IT disposes of assets using approved processes, including secure data wiping where applicable.

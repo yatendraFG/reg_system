@@ -1,0 +1,27 @@
+NOVATECH SOLUTIONS PVT. LTD.
+LEGAL & COMPLIANCE GUIDELINES
+Document ID: LEG-CMP-001 | Version: 1.0 | Effective: 01-Apr-2026
+
+1. General
+Employees must comply with applicable laws, contracts, company policies, and lawful management instructions.
+
+2. Contracts
+Only authorized personnel may sign contracts or legally binding commitments on behalf of the company.
+
+3. Intellectual Property
+Employees must respect company and third-party intellectual property rights. Work product ownership is governed by applicable contracts and law.
+
+4. Confidentiality
+Confidential information must be protected and disclosed only to authorized recipients.
+
+5. Records
+Business records must be accurate and must not be intentionally falsified or destroyed contrary to retention requirements.
+
+6. Anti-Bribery
+Bribery, kickbacks, and improper payments are prohibited.
+
+7. Regulatory Requests
+Legal/regulatory notices should be forwarded promptly to the designated Legal/Compliance function.
+
+8. Legal Disclaimer
+This fictional policy is created for an AI/RAG demonstration project and is not legal advice. Real organizations must have policies reviewed and approved by qualified legal/HR professionals and adapted to applicable jurisdiction.

@@ -1,0 +1,24 @@
+NOVATECH SOLUTIONS PVT. LTD.
+COMPANY STANDARD OPERATING PROCEDURES (SOP)
+Document ID: OPS-SOP-001 | Version: 1.0 | Effective: 01-Apr-2026
+
+1. Document Purpose
+SOPs define repeatable operational practices.
+
+2. Purchase Request SOP
+Employee creates a purchase request -> Manager reviews business need -> Finance validates budget -> Procurement obtains required quotations -> Authorized approver approves -> Purchase order is issued -> Goods/services are received -> Invoice is verified -> Finance processes payment.
+
+3. Incident Management SOP
+Report incident -> Create ticket -> Classify severity -> Assign owner -> Investigate -> Contain -> Resolve -> Test recovery -> Close ticket -> Record lessons learned.
+
+4. Employee Onboarding SOP
+HR creates onboarding checklist -> Documents verified -> IT creates accounts -> Device assigned -> Manager provides role plan -> Security training completed -> HR closes onboarding checklist.
+
+5. Offboarding SOP
+Manager/HR confirms exit -> IT receives access closure request -> Employee returns company assets -> Knowledge handover completed -> IT disables accounts -> Finance/HR processes final settlement -> Exit record closed.
+
+6. Change Management
+Material production changes require documented request, impact assessment, approval, testing, implementation plan, and rollback plan where appropriate.
+
+7. Record Keeping
+Operational records must be stored in approved repositories and retained according to applicable retention requirements.

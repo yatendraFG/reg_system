@@ -1,0 +1,27 @@
+NOVATECH SOLUTIONS PVT. LTD.
+INFORMATION SECURITY STANDARD
+Document ID: IT-STD-002 | Version: 1.0 | Effective: 01-Apr-2026
+
+1. Access Principle
+Access should follow least privilege and business need.
+
+2. Authentication
+MFA should be used for systems supporting it. Credentials must not be shared.
+
+3. Encryption
+Sensitive information should use approved encryption in transit and at rest where supported.
+
+4. Backups
+Critical systems should have scheduled backups and periodic recovery testing.
+
+5. Vulnerability Management
+Security updates and vulnerabilities should be prioritized based on risk.
+
+6. Logging
+Security-relevant events should be logged and reviewed according to system criticality.
+
+7. Incident Response
+Security incidents are identified, contained, investigated, remediated, and documented.
+
+8. Third Parties
+Third-party access must be approved and controlled.

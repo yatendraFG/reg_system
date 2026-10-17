@@ -1,0 +1,27 @@
+NOVATECH SOLUTIONS PVT. LTD.
+DATA PRIVACY & PROTECTION POLICY
+Document ID: LEG-PRIV-001 | Version: 1.0 | Effective: 01-Apr-2026
+
+1. Purpose
+Protect personal and confidential information processed by the company.
+
+2. Data Minimization
+Collect and use only information reasonably required for legitimate business purposes.
+
+3. Access
+Access to personal data is restricted according to job responsibilities.
+
+4. Storage
+Personal and confidential data must be stored in approved systems with appropriate security controls.
+
+5. Sharing
+Data may be shared with authorized service providers or parties where there is a legitimate business/legal basis and appropriate safeguards.
+
+6. Retention
+Data is retained only as long as required by business, contractual, legal, or regulatory requirements.
+
+7. Data Incident
+Suspected loss, unauthorized disclosure, or compromise of personal data must be reported immediately to the designated security/privacy contact.
+
+8. Individual Requests
+Requests concerning personal information are handled through the company's designated privacy process.
